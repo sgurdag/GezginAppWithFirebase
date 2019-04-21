@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950567029328",
+    "firebase_url": "https://gezginapp-e70f3.firebaseio.com",
+    "project_id": "gezginapp-e70f3",
+    "storage_bucket": "gezginapp-e70f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950567029328:android:183a7140ab7034a1",
+        "android_client_info": {
+          "package_name": "com.sagu1.notebookwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950567029328-at6d3070qclisid663tsh3h0eu5ck5b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeUWz8rAVgZeHxl1OSZ8_SRDqK4AjIJWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950567029328-at6d3070qclisid663tsh3h0eu5ck5b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
